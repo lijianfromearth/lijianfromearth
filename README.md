@@ -10,9 +10,3 @@ I am lijian, a Research Assistant at shanghaitech[MARSLAB](https://robotics.shan
 - Currently, my work is focussed Dexterous manipulation.
 
 
-
-
-#**Contact Me**:
-
-#[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manan-tayal/)
-
