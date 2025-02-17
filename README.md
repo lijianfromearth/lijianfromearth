@@ -22,8 +22,8 @@ ROBIO 2024
 *Utilizing Flowmatching and RL (Work in Progress)*  
 - Our work aims to improve the generation effect of the 2024 ICRA article *Language-Conditioned Affordance-Pose Detection in 3D Point Clouds*.  
 - So far, our pose generation effect has far exceeded that of the article, with **90%** of the generated poses being correct.  
-- ![Control Grasp Pose Generation Effect](path/to/image1.jpg)  
-- ![Our Model's Effect](path/to/image2.jpg)  
+- ![LCAP Generation Effect](./img/LCAP_res.jpeg)  
+- ![Our Model's Effect](./img/our_res.jpeg)  
 
 ### Quadruped Robot Upright Grasping Project  
 *(Work in Progress)*  
