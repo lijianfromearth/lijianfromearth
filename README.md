@@ -39,6 +39,7 @@ ROBIO 2024
 - 
     <tr>
         <td><img src="./img/go2stand1.gif" alt="go2stand1" width="200" height="150"></td>
+        
         <td><img src="./img/go2stand2.gif" alt="go2stand2" width="200" height="150"></td>
     </tr>
 
@@ -49,6 +50,7 @@ ROBIO 2024
 - 
     <tr>
         <td><img src="./img/lefthandgrasp_gaus.jpeg" alt="go2stand1" width="200" height="150"></td>
+        
         <td><img src="./img/lefthandgrasp_v.gif" alt="go2stand2" width="200" height="150"></td>
     </tr> 
 
