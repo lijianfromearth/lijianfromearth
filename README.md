@@ -21,9 +21,14 @@ ROBIO 2024
 ### Generation of 6DOF Grasp Poses using Internal Constraints and Open Semantic Affordance  
 *Utilizing Flowmatching and RL (Work in Progress)*  
 - Our work aims to improve the generation effect of the 2024 ICRA article *Language-Conditioned Affordance-Pose Detection in 3D Point Clouds*.  
-- So far, our pose generation effect has far exceeded that of the article, with **90%** of the generated poses being correct.  
-- ![LCAP Generation Effect](./img/LCAP_res.jpeg)  
-- ![Our Model's Effect](./img/our_res.jpeg)  
+- So far, our pose generation effect has far exceeded that of the article, with **90%** of the generated poses being correct.
+<table>
+    <tr>
+        <td><img src="./img/LCAP_res.jpeg" alt="LCAP Generation Effect" width="200" height="150"></td>
+        <td><img src="./img/our_res.jpeg" alt="Our Model's Effect" width="200" height="150"></td>
+    </tr>
+</table>
+
 
 ### Quadruped Robot Upright Grasping Project  
 *(Work in Progress)*  
