@@ -29,7 +29,7 @@ ROBIO 2024
     </tr>
 </table>
 - Left LCAP Generation Effect
-- right Our Model's Effect
+- right Our Model's Effect   
 - 后续我们将用Fetch Robot 进行实机测试  
 
 ### Quadruped Robot Upright Grasping Project  
@@ -51,3 +51,9 @@ ROBIO 2024
         <td><img src="./img/lefthandgrasp_gaus.jpeg" alt="go2stand1" width="200" height="150"></td>
         <td><img src="./img/lefthandgrasp_v.gif" alt="go2stand2" width="200" height="150"></td>
     </tr> 
+
+### ShanghaiTech Mapping Robot SLAM 数据集  
+- 使用 Mapping Robot 和 Faro 采集校园数据集
+- 测试不同的编码器及其设置，以找到压缩视觉SLAM数据集结果大小、质量和编码时间方面的最佳配置  
+- 编写压缩和播放数据集脚本，实现55倍压缩。产出一篇ROBIO论文
+- 将Faro 数据集作为真值，编写程序通过对比2个数据集的点云标注动态物体(仍在工作中)
