@@ -28,7 +28,8 @@ ROBIO 2024
         <td><img src="./img/our_res.jpeg" alt="Our Model's Effect" width="200" height="150"></td>
     </tr>
 </table>
-
+- Left LCAP Generation Effect
+- right Our Model's Effect
 
 ### Quadruped Robot Upright Grasping Project  
 *(Work in Progress)*  
