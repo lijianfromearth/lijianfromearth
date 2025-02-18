@@ -58,8 +58,8 @@ ROBIO 2024
 - 基于论文“RESPRECT:Speeding-up Multi-fingered Grasping with Residual Reinforcement Learning“，负责引入高斯基元作为视觉特征。
 - 负责训练高斯预测网络，以加速RL训练时的高斯推理。  
 - 开发镜像程序，实现将右手抓取策略部署到左手执行。  
-- 编写程序使用Pyk4A 读取远程kinect深度图数据，使用FundationPose实现目标姿态跟踪。  
-- 测试发现直接从零开始训练抓取成功率很难上升，使用预设的抓取动作从演示中学习加速RL训练。（不幸该项目夭折，未完成训练）
+- 编写程序使用Pyk4A 读取远程kinect深度图数据，使用FoundationPose实现目标姿态跟踪。  
+- 测试发现直接从零开始训练抓取成功率很难上升，使用预设的抓取动作从演示中学习可加速RL训练。（不幸该项目夭折，未完成训练）
 
 
 
@@ -72,20 +72,6 @@ ROBIO 2024
 
 ---
 
-## 技术栈
-**机器人开发**  
-ROS/ROS2 | Gazebo | RVIZ | MoveIt  
+### 技术栈
+RL | diffusion | Ros | OrbSlam2 | Android | Web | Java/C++/Python
 
-**机器学习**  
-PyTorch | Diffusion Models | RL (PPO, SAC)  
-
-**编程语言**  
-Python | C++ | MATLAB  
-
-**工具链**  
-Docker | Git | OpenCV | PCL
-
----
-
-## 荣誉奖励
-（建议补充机器人/AI相关竞赛奖项、奖学金等）
