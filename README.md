@@ -28,8 +28,9 @@ ROBIO 2024
         <td><img src="./img/our_res.jpeg" alt="Our Model's Effect" width="200" height="150"></td>
     </tr>
 </table>
-- Left LCAP Generation Effect
-- right Our Model's Effect   
+- Left LCAP Generation Effect 
+- right Our Model's Effect    
+
 - We will subsequently conduct real-world testing using the Fetch Robot   
 
 ### Quadruped Robot Upright Grasping Project  
