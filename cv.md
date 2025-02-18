@@ -7,7 +7,7 @@
 
 ### 教育背景
 **天津财经大学**  
-计算机科学与技术 学士  Cet6 | 2016 - 2020  
+计算机科学与技术 学士  Cet-6 | 2016 - 2020  
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### 论文
 **High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**  
-*Li, Jian | Xu, Bowen | Schwertfeger*  
+*Li, Jian | Xu, Bowen | Sören Schwertfeger*  
 ROBIO 2024   
 
 ---
@@ -41,7 +41,7 @@ ROBIO 2024
 - 解决条件不显著带来的生成位置错误问题。测试了点云与点云、点云与文本，使用cross attention和拼接特征等不同条件组合，最终选择torch.cat拼接点云与文本特征。  
 - 且经实验发现在训练位姿生成时，同时训练Affordance点云区域预测，可增强pointnet++点云特征的表现能力，使得diffusion可以在更多物体上生成正确抓取位姿。  
 - 用每次生成50个位姿取代原论文预测单一位姿的方案。经实验发现利用50个位姿的内在约束可以提高模型的收敛速度和生成效果。  
-- 目前在小规模的数据集测试中，我们模型的生成效果已超越了原论文需要采样2000次才可筛选出可用位姿的生成效果。相信经过微调我们的模型可以实现**90%**抓取姿态正确率。   
+- 目前在小规模的数据集测试中，我们模型的生成效果已超越了原论文需要采样2000次才可筛选出可用位姿的生成效果。相信经过微调我们的模型可以实现 **90%** 抓取姿态正确率。   
 - 开发Fetch Robot控制程序为实机验证做准备。   
 
 
@@ -72,6 +72,7 @@ ROBIO 2024
 
 ---
 
-### 技术栈
-RL | diffusion | Ros | OrbSlam2 | Android | Web | Java/C++/Python
+### 技术栈  
+
+RL | diffusion | Ros | OrbSlam2 | Android | Web | Java/C++/Python 
 
