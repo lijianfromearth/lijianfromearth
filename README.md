@@ -2,10 +2,10 @@
 
 
 Hi there 👋  
-I am Lijian, a Research Assistant at the shanghaitech MARS Lab, working with Prof. Sören Schwertfeger.  
-Currently, my work is focused on **Dexterous Hand Manipulation**, **Diffusion Models**, and **Quadruped Control**.  
+I am Lijian, a Research Assistant at HKUST(GZ), working with Professor Renjing Xu. Before joining HKUST(GZ), I worked with Professor Sören Schwertfeger at ShanghaiTech University. 
+Currently, my work focuses on VLA and haptic sim2real.  
 
-Before joining ShanghaiTech, I worked at the Industrial and Commercial Bank of China Software Development Center (Beijing). I obtained my Bachelor Degree in Computer Science and Technology from Tianjin University of Finance and Economics in 2020.  
+Prior to embarking on my research journey, I worked at the Industrial and Commercial Bank of China Software Development Center (Beijing). I obtained my Bachelor’s Degree in Computer Science and Technology from Tianjin University of Finance and Economics in 2020.  
 
 
 
@@ -13,10 +13,13 @@ Before joining ShanghaiTech, I worked at the Industrial and Commercial Bank of C
 **High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**  
 *Li, Jian | Xu, Bowen | Schwertfeger*  
 ROBIO 2024  
+**Gentle Manipulation Policy Learning via Demonstrations from VLM Planned Atomic Skills**
+*JiayuZhou | QiweiWu | jianli | Chen Zhe | Xiaogang Xiong | Renjing Xu*
+AAAI-26 Oral
 
 
 
-## Project Experience  
+## Project Experience in shanghaitech 
 
 ### Generation of 6DOF Grasp Poses using Internal Constraints and Open Semantic Affordance  
 *Utilizing Flowmatching and RL (Work in Progress)*  
