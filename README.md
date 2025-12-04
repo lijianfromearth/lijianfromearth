@@ -13,9 +13,9 @@ Prior to embarking on my research journey, I worked at the Industrial and Commer
 **High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**  
 *Li, Jian | Xu, Bowen | Schwertfeger*  
 ROBIO 2024  
-**Gentle Manipulation Policy Learning via Demonstrations from VLM Planned Atomic Skills** 
-*JiayuZhou | QiweiWu | jianli | Chen Zhe | Xiaogang Xiong | Renjing Xu*
-AAAI-26 Oral
+**Gentle Manipulation Policy Learning via Demonstrations from VLM Planned Atomic Skills**   
+*JiayuZhou | QiweiWu | jianli | Chen Zhe | Xiaogang Xiong | Renjing Xu*  
+AAAI-26 Oral  
 
 
 
