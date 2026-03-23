@@ -5,7 +5,7 @@ Hi there 👋
 I am Lijian, a Research Assistant at HKUST(GZ), working with Professor Renjing Xu. Before joining HKUST(GZ), I worked with Professor Sören Schwertfeger at ShanghaiTech University. 
 Currently, my work focuses on manipulation and humanoidrobot.  
 
-Prior to embarking on my research journey, I worked at the Industrial and Commercial Bank of China Software Development Center (Beijing). I obtained my Bachelor’s Degree in Computer Science and Technology from Tianjin University of Finance and Economics in 2020.  
+Prior to embarking on my research journey, I worked at the Industrial and Commercial Bank of China Software Development Center (Beijing). I obtained my Bachelor’s Degree in Computer Science and Technology from Tianjin University of Finance and Economic.  
 
 
 
