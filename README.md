@@ -2,9 +2,9 @@
 
 
 Hi there 👋  
-I am Lijian, a Research Assistant at HKUST(GZ), working with Professor Renjing Xu. Before joining HKUST(GZ), I worked with Professor Sören Schwertfeger at ShanghaiTech University. 
-Currently, my work focuses on manipulation and humanoidrobot.  
-
+I am Lijian, a Research Assistant at the HCLLab of The Hong Kong University of Science and Technology (Guangzhou). My research focuses on embodied manipulation learning, robot-centric generative interaction, real-world online reinforcement learning, and tactile manipulation.
+Previously, I worked as a Research Assistant at ShanghaiTech University MARSLab on SLAM, manipulation data synthesis, teleoperation systems, and reinforcement learning.
+ 
 Prior to embarking on my research journey, I worked at the Industrial and Commercial Bank of China Software Development Center (Beijing). I obtained my Bachelor’s Degree in Computer Science and Technology from Tianjin University of Finance and Economic.  
 
 ## Research Interests
